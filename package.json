@@ -23,7 +23,7 @@
     "@nestjs/core": "^6.0.0",
     "@nestjs/graphql": "^6.6.2",
     "@nestjs/platform-express": "^6.0.0",
-    "apollo-server-express": "^2.10.1",
+    "apollo-server-express": "^2.14.2",
     "firebase-admin": "^8.9.2",
     "firebase-functions": "^3.3.0",
     "graphql": "^14.6.0",
